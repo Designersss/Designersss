@@ -56,8 +56,5 @@
 
 <br/>  
 
-
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Designersss&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
+## GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Designersss)](https://git.io/streak-stats)
